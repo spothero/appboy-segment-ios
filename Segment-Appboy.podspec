@@ -31,4 +31,9 @@ Pod::Spec.new do |s|
     core.source_files = 'Pod/Classes/**/*'
   end
 
+  s.subspec 'InAppMessage' do |iam|
+    iam.dependency 'Appboy-iOS-SDK/InAppMessage', '~>3.21.0'
+    iam.source_files = 'Pod/Classes/**/*'
+  end
+
 end
