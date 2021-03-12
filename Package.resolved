@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Segment",
+        "repositoryURL": "https://github.com/segmentio/analytics-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "fb56c304db5b5c2248f03f7a814cdc097b71f94a",
+          "version": "4.1.3"
+        }
+      },
+      {
+        "package": "Appboy_iOS_SDK",
+        "repositoryURL": "https://github.com/braze-inc/braze-ios-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "34b478973b133878aa2585e3e11559c53582a262",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "a6b6e44eadf0d39250c10a7cc0e3b91d0bdb0e94",
+          "version": "5.10.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
